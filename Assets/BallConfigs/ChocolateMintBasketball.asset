@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f10d85696d0486781fed07d54da200, type: 3}
+  m_Name: ChocolateMintBasketball
+  m_EditorClassIdentifier: 
+  ball_sprite: {fileID: 21300000, guid: 2f74468881a9f4e71a8047bd26790649, type: 3}
+  powerup_type: 8
+  mass: 0.5
+  ball_color: {r: 1, g: 1, b: 1, a: 1}
